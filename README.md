@@ -51,7 +51,7 @@ The dataset is sourced from a marketing campaign for a Portuguese banking instit
 - **Z_Revenue:** Customer's revenue
 - **Response:** Campaign response
 
-##Data Exploration
+## Data Exploration
 Marital_Status:
 
 - 8 distinct categories, with "Married" being the most common
